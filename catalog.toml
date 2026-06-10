@@ -25,4 +25,4 @@ name = "Bongo Cat"
 version = "1.0.0"
 author = "noctalia"
 min_noctalia = "5.0.0"
-tags = ["fun", "animation"]
+tags = ["fun", "animation", "cat"]
