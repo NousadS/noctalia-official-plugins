@@ -43,7 +43,7 @@ version = "1.0.2"
 author = "noctalia"
 license = "MIT"
 icon = "language"
-description = "Translate text from the launcher via Google Translate. Type `/tr <lang> <text>`."
+description = "Translate text from the launcher via Google Translate."
 min_noctalia = "5.0.0"
 tags = ["translate", "language", "launcher"]
 
