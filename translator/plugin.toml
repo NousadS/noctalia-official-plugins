@@ -6,7 +6,7 @@ author = "noctalia"
 license = "MIT"
 tags = ["translate", "language", "launcher"]
 icon = "language"
-description = "Translate text from the launcher via Google Translate. Type `/tr <lang> <text>`."
+description = "Translate text from the launcher via Google Translate."
 
 [[launcher_provider]]
 id = "translate"
